@@ -1,0 +1,16 @@
+{
+  "name": "oducs_scraper",
+  "version": "0.0.1",
+  "description": "scrape odu cs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "scrape",
+    "odu",
+    "cs"
+  ],
+  "author": "stanzheng",
+  "license": "MIT"
+}
