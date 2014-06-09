@@ -12,5 +12,9 @@
     "cs"
   ],
   "author": "stanzheng",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.16.0",
+    "request": "^2.36.0"
+  }
 }
